@@ -1,0 +1,5 @@
+coverage
+node_modules
+
+#custom development scripts
+scripts/serveCoverage.js
